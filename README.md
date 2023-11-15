@@ -1,6 +1,8 @@
 # Cooking with AI 🍳🤖
 
-![Cooking with AI Logo](./public/cookwithaiLogo.jpeg)
+<div style="text-align:center">
+  <img src="./public/cookwithaiLogo.jpeg" alt="Cooking with AI Logo" width="200" height="200">
+</div>
 
 Welcome to Cook with AI, an AI-powered assistant that helps you cook a dish of any cuisine from the world! This project utilizes Next.js, TailwindCSS and leverages OpenAI's GPT-3.5 Turbo API to provide detailed cooking instructions and ingredients for various recipes.
 
@@ -11,7 +13,6 @@ Welcome to Cook with AI, an AI-powered assistant that helps you cook a dish of a
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
