@@ -33,7 +33,7 @@ Cookwith AI is a web application that allows users to enter the name of a dish o
 
 To run this project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/cooking-with-ai.git`
+1. Clone this repository: `git clone https://github.com/Hemsharavanan/Cook-with-AI-OpenAI-NextJS`
 2. Navigate to the project directory: `cd cooking-with-ai`
 3. Install dependencies: `npm install`
 4. Set up environment variables for OpenAI's GPT-3 API access.
